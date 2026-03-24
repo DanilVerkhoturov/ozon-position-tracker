@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Env файлы
+.env
+
+# Результаты и логи
+logs/*.log
+results/*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Chrome/Selenium
+chromedriver
+*.crdownload
+
+# OS
+.DS_Store
+Thumbs.db
